@@ -1,0 +1,6 @@
+{
+  "name": "Crestline Premier Banking",
+  "description": "Enterprise-grade multi-account banking and personal financial management suite with privacy masking, automated spending habit analytics, and proactive security controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
